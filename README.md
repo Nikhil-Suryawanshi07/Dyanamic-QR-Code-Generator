@@ -80,3 +80,6 @@ This project is licensed under the MIT License – feel free to use and modify.
 👨‍💻 Developed By
 Nikhil
 B.Tech Mini Project – Dynamic QR Code Generation for File Sharing
+
+www.linkedin.com/in/nikhil-suryawanshi6066
+
